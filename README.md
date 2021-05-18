@@ -7,7 +7,7 @@
 
 ---
 
-fsp scans an APK and checks if the Firestore database contains rules that are not safe, testing with and without authentication.
+fsp scans an APK and checks if the Firestore database contains rules that are not safe, testing with or without authentication.
 
 If there are problems with the security rules, attackers could steal, modify or delete data and raise the bill.
 
